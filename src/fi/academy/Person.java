@@ -1,6 +1,7 @@
 package fi.academy;
 
 public class Person {
+
     String address;
     String city;
     String phoneNumber;
@@ -45,5 +46,6 @@ public class Person {
                 ", city='" + city + '\'' +
                 ", phoneNumber='" + phoneNumber + '\'' +
                 '}';
+
     }
 }
